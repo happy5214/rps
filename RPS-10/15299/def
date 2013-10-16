@@ -1,0 +1,18 @@
+---
+__CLASS__: RPS::Results::K-20130729
+k: 15299
+n_max: 400000
+n_min: 1000
+primes:
+- 2832
+- 15392
+- 26088
+- 51120
+results:
+- n_max: 10000
+  n_min: 1000
+- n_max: 50000
+  n_min: 10000
+- n_max: 400000
+  n_min: 50000
+twins: []
