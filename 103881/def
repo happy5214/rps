@@ -2,8 +2,15 @@
 __CLASS__: RPS::Results::K-20130729
 k: 103881
 n_max: 300000
-n_min: 100
+n_min: 1
 primes:
+- 2
+- 10
+- 13
+- 14
+- 22
+- 31
+- 83
 - 298
 - 343
 - 470
@@ -30,6 +37,8 @@ primes:
 - 170341
 - 186673
 results:
+- n_max: 100
+  n_min: 1
 - n_max: 10000
   n_min: 100
 - n_max: 50000
@@ -50,4 +59,5 @@ results:
   n_min: 250000
 - n_max: 300000
   n_min: 275000
-twins: []
+twins:
+- 31
