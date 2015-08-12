@@ -1,8 +1,13 @@
 ---
 __CLASS__: RPS::Results::K-20130729
 k: 13511
-n_max: 20000
+n_max: 400000
 n_min: 20000
-primes: []
-results: []
+primes:
+- '92510'
+- '187910'
+- '331670'
+results:
+- n_max: '400000'
+  n_min: '20000'
 twins: []
