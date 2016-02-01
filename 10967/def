@@ -23,6 +23,6 @@ primes:
 - 307700
 - 372012
 results:
-- n_max: '400000'
-  n_min: '372014'
+- n_max: 400000
+  n_min: 372014
 twins: []

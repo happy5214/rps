@@ -15,6 +15,6 @@ primes:
 - 368285
 - 372021
 results:
-- n_max: '400000'
-  n_min: '372023'
+- n_max: 400000
+  n_min: 372023
 twins: []

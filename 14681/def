@@ -5,6 +5,6 @@ n_max: 400000
 n_min: 20000
 primes: []
 results:
-- n_max: '400000'
-  n_min: '20000'
+- n_max: 400000
+  n_min: 20000
 twins: []

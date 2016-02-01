@@ -4,8 +4,8 @@ k: 14533
 n_max: 400000
 n_min: 20000
 primes:
-- '379583'
+- 379583
 results:
-- n_max: '400000'
-  n_min: '20000'
+- n_max: 400000
+  n_min: 20000
 twins: []

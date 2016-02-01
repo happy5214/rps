@@ -11,6 +11,6 @@ results:
   n_min: 10000
 - n_max: 100000
   n_min: 50000
-- n_max: '400000'
-  n_min: '100000'
+- n_max: 400000
+  n_min: 100000
 twins: []
