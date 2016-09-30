@@ -7,6 +7,8 @@ primes:
 - 868
 - 2596
 results:
-- n_max: 1000000
+- n_max: 900000
   n_min: 1
+- n_max: 1000000
+  n_min: 900000
 twins: []
