@@ -1,10 +1,16 @@
 ---
-__CLASS__: RPS::Results::K-20130729
+__CLASS__: RPS::Results::K-20171027
 k: 20639
 n_max: 400000
-n_min: 335000
-primes: []
+n_min: 1000
+primes:
+- 2668
+- 23084
+- 80788
+- 81300
 results:
 - n_max: 400000
   n_min: 335000
+- n_max: 335000
+  n_min: 1000
 twins: []
