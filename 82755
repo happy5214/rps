@@ -1,7 +1,7 @@
 ---
-__CLASS__: RPS::Results::K-20130729
+__CLASS__: RPS::Results::K-20171027
 k: 82755
-n_max: 480849
+n_max: 500000
 n_min: 1000
 primes:
 - 3103
@@ -20,6 +20,7 @@ primes:
 - 186617
 - 191998
 - 358297
+- 480850
 results:
 - n_max: 10000
   n_min: 1000
@@ -45,4 +46,6 @@ results:
   n_min: 300000
 - n_max: 480849
   n_min: 480001
+- n_max: 500000
+  n_min: 480000
 twins: []
