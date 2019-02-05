@@ -1,0 +1,11 @@
+---
+__CLASS__: RPS::Results::K-20171027
+k: 11411
+n_max: 1000000
+n_min: 20000
+primes:
+- 756730
+results:
+- n_max: 1000000
+  n_min: 20000
+twins: []
