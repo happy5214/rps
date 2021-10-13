@@ -4,6 +4,8 @@ This repository contains most of my results from searching for Riesel primes.
 
 It is divided into single-*k* and multi-*k* results.
 
+**NOTE**: All results after September 2021 will be posted *only* to Karsten Bonath's [Prime-Wiki](https://www.rieselprime.de/ziki/). All single-*k* results from this repository should have already been posted there. If any are missing, please PM me on [MersenneForum](https://www.mersenneforum.org/) (user name: Happy5214).
+
 ## Single-*k* results
 
 The single-*k* results are in the root of the repository. They contain a series of *n* ranges and *n* values for all primes and twins found in those ranges, with the exception of some early data which omits already-known primes.
